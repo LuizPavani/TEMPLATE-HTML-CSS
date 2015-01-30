@@ -1,3 +1,3 @@
-Incio!
+Inicio!
 
 # TEMPLATE-HTML-CSS
