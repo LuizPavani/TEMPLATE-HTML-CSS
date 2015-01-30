@@ -1,0 +1,62 @@
+body {
+	background: #f4f4f4;
+	border-top: 17px solid #000;
+	font-family: arial;
+	font-size: 12px;
+	width: 100%;
+}
+
+.ht-limit {
+	width: 960px;
+	margin:20px auto;
+	overflow: hidden;
+}
+
+.ht-replacement {
+  overflow: hidden;
+  text-indent: -9999px;
+  display: block; 
+}
+
+.ht-slider {
+	margin-bottom: 20px;
+}
+
+.ht-slider img {
+  width: 100%;
+  display: block;
+  border-top: 1px solid #c0c0c0;
+  padding-top: 20px;
+  padding-bottom: 20px; 
+}
+
+.ht-wrap {
+	margin-bottom: 20px;
+	clear: both;
+}
+	
+.ht-col-3 {
+  float: left;
+  width: 33.3%;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border-bottom: 1px solid #c0c0c0;
+  border-top: 1px solid #c0c0c0;
+}
+
+.ht-col-4 {
+  float: left;
+  width: 25%;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  clear: both;
+}
+
+.ht-row .test {
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}

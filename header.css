@@ -1,0 +1,50 @@
+.ht-header {
+	width: 100%;
+	float: left;
+	width: 100%;
+}
+
+.ht-header .ht-logo a {
+	background: url(../images/logo_top.png) no-repeat;
+	width:193px;
+	height:108px;
+	display: block;
+}
+
+.ht-header .ht-logo {
+	float: left;
+}
+
+.ht-header nav {
+  margin-top: 40px;
+  float: right;
+}
+
+.ht-header nav ul {
+  list-style: none;
+}
+
+.ht-header nav ul li {
+  display: inline-block;
+  margin-left: 10px;
+  text-transform: uppercase;
+}
+
+.ht-header nav a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #fe9b00;
+}
+
+.ht-header nav a:hover {
+  text-decoration: underline;
+}
+
+a:hover {
+  opacity: .8;
+} 
+
+.ht-header nav ul li a.ativo {
+	color: #000;
+	text-decoration: none;
+}
